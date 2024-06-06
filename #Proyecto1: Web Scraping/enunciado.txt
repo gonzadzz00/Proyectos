@@ -5,4 +5,4 @@ Estadísticas Ofensivas del Manchester City en la Premier League 2023/24
 3) Descarga de datos a formato .csv
 4) Visualización de las estadísticas ofensivas del equipo en Power Bi.
 
-Este proyecto brinda una breve introducción al análisis de datos 
+Este proyecto brinda una breve introducción al análisis de datos en el fútbol y sus principales métricas
