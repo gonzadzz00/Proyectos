@@ -16,9 +16,11 @@
 ##### -  xA (o asistencias esperadas) ->  similar a los xG, las asistencias esperadas son el valor de probabilidad de gol que se le otorga a un pase que acaba en remate y con el que se mide su calidad y peligrosidad.
 
 #### Archivos:
-#####   - Jupyter Notebook
-#####   - 3 Archivos .csv
-#####   - Reporte interactivo en Power Bi
+#####   - 📒Jupyter Notebook
+#####   - 📚3 Archivos .csv
+#####   - 📊Reporte interactivo en Power Bi
 
-
+<p align="center">
+  <img src="Modelo_de_tablas.png" alt="Modelo_de_tablas" width="80%">
+</p>
 
