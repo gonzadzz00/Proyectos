@@ -1,0 +1,39 @@
+Round,Date,Time,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee
+Matchweek 1,2023-08-11,20:00,Fri,Away,W,3,0,Burnley,1.9,0.3,65,21572,Kevin De Bruyne,4-2-3-1,Craig Pawson
+Matchweek 2,2023-08-19,20:00,Sat,Home,W,1,0,Newcastle Utd,1.0,0.3,59,53419,Kyle Walker,4-2-3-1,Robert Jones
+Matchweek 3,2023-08-27,14:00,Sun,Away,W,2,1,Sheffield Utd,3.5,0.7,79,31336,Kyle Walker,4-2-3-1,Jarred Gillett
+Matchweek 4,2023-09-02,15:00,Sat,Home,W,5,1,Fulham,2.2,1.4,68,52899,Kyle Walker,4-2-3-1,Michael Oliver
+Matchweek 5,2023-09-16,15:00,Sat,Away,W,3,1,West Ham,3.6,0.9,68,62475,Kyle Walker,4-2-3-1,Andy Madley
+Matchweek 6,2023-09-23,15:00,Sat,Home,W,2,0,Nott'ham Forest,1.3,1.0,57,53413,Kyle Walker,4-2-3-1,Anthony Taylor
+Matchweek 7,2023-09-30,15:00,Sat,Away,L,1,2,Wolves,0.9,0.4,68,31415,Kyle Walker,4-2-3-1,Craig Pawson
+Matchweek 8,2023-10-08,16:30,Sun,Away,L,0,1,Arsenal,0.5,0.4,51,60233,Kyle Walker,4-3-3,Michael Oliver
+Matchweek 9,2023-10-21,15:00,Sat,Home,W,2,1,Brighton,0.8,0.8,55,53466,Kyle Walker,3-2-4-1,Robert Jones
+Matchweek 10,2023-10-29,15:30,Sun,Away,W,3,0,Manchester Utd,4.0,0.9,60,73502,Kyle Walker,4-2-3-1,Paul Tierney
+Matchweek 11,2023-11-04,15:00,Sat,Home,W,6,1,Bournemouth,1.9,0.9,65,53358,Kyle Walker,3-4-3,Craig Pawson
+Matchweek 12,2023-11-12,16:30,Sun,Away,D,4,4,Chelsea,2.9,2.9,55,39532,Kyle Walker,3-2-4-1,Anthony Taylor
+Matchweek 13,2023-11-25,12:30,Sat,Home,D,1,1,Liverpool,1.3,0.6,59,53289,Kyle Walker,3-2-4-1,Chris Kavanagh
+Matchweek 14,2023-12-03,16:30,Sun,Home,D,3,3,Tottenham,2.6,0.5,55,53473,Kyle Walker,3-2-4-1,Simon Hooper
+Matchweek 15,2023-12-06,20:15,Wed,Away,L,0,1,Aston Villa,0.6,2.3,54,41421,Kyle Walker,3-2-4-1,John Brooks
+Matchweek 16,2023-12-10,14:00,Sun,Away,W,2,1,Luton Town,1.6,0.3,65,11047,Kyle Walker,4-2-3-1,Tim Robinson
+Matchweek 17,2023-12-16,15:00,Sat,Home,D,2,2,Crystal Palace,1.6,1.8,74,53248,Kyle Walker,4-2-3-1,Paul Tierney
+Matchweek 19,2023-12-27,20:15,Wed,Away,W,3,1,Everton,2.4,1.0,72,39327,Kyle Walker,4-2-3-1,John Brooks
+Matchweek 20,2023-12-30,15:00,Sat,Home,W,2,0,Sheffield Utd,2.2,0.3,80,53108,Kyle Walker,4-2-3-1,David Coote
+Matchweek 21,2024-01-13,17:30,Sat,Away,W,3,2,Newcastle Utd,3.0,1.3,72,52190,Kyle Walker,4-2-3-1,Chris Kavanagh
+Matchweek 22,2024-01-31,19:30,Wed,Home,W,3,1,Burnley,1.7,1.4,74,52143,Kevin De Bruyne,4-2-3-1,Samuel Barrott
+Matchweek 23,2024-02-05,20:00,Mon,Away,W,3,1,Brentford,2.1,1.0,72,17096,Kyle Walker,4-1-4-1,Jarred Gillett
+Matchweek 24,2024-02-10,12:30,Sat,Home,W,2,0,Everton,1.6,0.3,72,52187,Rúben Dias,4-1-4-1,John Brooks
+Matchweek 25,2024-02-17,17:30,Sat,Home,D,1,1,Chelsea,2.6,1.4,70,52178,Kyle Walker,4-1-4-1,Andy Madley
+Matchweek 18,2024-02-20,19:30,Tue,Home,W,1,0,Brentford,2.3,0.4,70,52247,Kyle Walker,4-2-3-1,Darren England
+Matchweek 26,2024-02-24,17:30,Sat,Away,W,1,0,Bournemouth,1.6,0.9,62,11184,Rúben Dias,3-2-4-1,Jarred Gillett
+Matchweek 27,2024-03-03,15:30,Sun,Home,W,3,1,Manchester Utd,3.3,0.2,73,53514,Kyle Walker,3-2-4-1,Andy Madley
+Matchweek 28,2024-03-10,15:45,Sun,Away,D,1,1,Liverpool,1.6,2.7,47,59947,Kyle Walker,3-2-4-1,Michael Oliver
+Matchweek 30,2024-03-31,16:30,Sun,Home,D,0,0,Arsenal,1.0,0.7,72,52178,Kevin De Bruyne,4-1-4-1,Anthony Taylor
+Matchweek 31,2024-04-03,20:15,Wed,Home,W,4,1,Aston Villa,3.4,0.8,67,53422,Rúben Dias,4-2-3-1,Darren England
+Matchweek 32,2024-04-06,12:30,Sat,Away,W,4,2,Crystal Palace,1.9,1.1,75,25132,Kevin De Bruyne,3-2-4-1,Paul Tierney
+Matchweek 33,2024-04-13,15:00,Sat,Home,W,5,1,Luton Town,4.2,0.5,73,52149,Kevin De Bruyne,4-2-3-1,John Brooks
+Matchweek 29,2024-04-25,20:00,Thu,Away,W,4,0,Brighton,1.4,0.6,64,31596,Kyle Walker,4-1-4-1,Jarred Gillett
+Matchweek 35,2024-04-28,16:30,Sun,Away,W,2,0,Nott'ham Forest,0.9,1.9,66,29677,Kyle Walker,4-1-4-1,Simon Hooper
+Matchweek 36,2024-05-04,17:30,Sat,Home,W,5,1,Wolves,3.7,0.3,58,52439,Kyle Walker,4-2-3-1,Craig Pawson
+Matchweek 37,2024-05-11,12:30,Sat,Away,W,4,0,Fulham,3.2,0.1,64,24418,Kevin De Bruyne,4-2-3-1,Anthony Taylor
+Matchweek 34,2024-05-14,20:00,Tue,Away,W,2,0,Tottenham,2.4,1.7,47,61065,Kyle Walker,4-2-3-1,Chris Kavanagh
+Matchweek 38,2024-05-19,16:00,Sun,Home,W,3,1,West Ham,1.9,0.4,71,55097,Kyle Walker,4-1-4-1,John Brooks
