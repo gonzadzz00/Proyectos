@@ -1,8 +1,0 @@
-Estadísticas Ofensivas del Manchester City en la Premier League 2023/24
-
-1) Web Scraping desde la página fbref con libreria Request y BeautifulSoup
-2) Manipulación y Transformación de Datos con Pandas
-3) Descarga de datos a formato .csv
-4) Visualización de las estadísticas ofensivas del equipo en Power Bi.
-
-Este proyecto brinda una breve introducción al análisis de datos en el fútbol y sus principales métricas
