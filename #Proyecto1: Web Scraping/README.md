@@ -1,4 +1,4 @@
-# Estadísticas Ofensivas⚽ del Manchester City en la Premier League 2023/24🏆
+# Estadísticas Ofensivas del Manchester City (Premier League 2023/24)
 
 <p align="center">
   <img src="Premier_League_Logo.png" alt="Premier League Logo" width="50%">
