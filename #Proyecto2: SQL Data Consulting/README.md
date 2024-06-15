@@ -2,11 +2,11 @@
 
 #### Introducción
 
-La empresa "RetroRides Models", dedicada a la venta de modelos a escala de autos clásicos, se encuentra en la necesidad de obtener información clave para la toma de decisiones estratégicas. Para abordar esta necesidad, se utilizará la base de datos en formato MySQL denominada "classicmodels".
+La empresa "RetroRides Models"🚗, dedicada a la venta de modelos a escala de autos clásicos, se encuentra en la necesidad de obtener información clave para la toma de decisiones estratégicas. Para abordar esta necesidad, se utilizará la base de datos en formato MySQL denominada "classicmodels".
 
 #### Objetivo
 
-Este proyecto tiene como objetivo responder a una serie de interrogantes de negocio mediante el análisis de datos de la base de datos "classicmodels". A continuación, se presenta un conjunto de consultas diseñadas para proporcionar insights valiosos que ayudarán a RetroRides Models en su proceso de toma de decisiones. Le invitamos a descargar la base de datos "classicmodels" y a interactuar con las siguientes consultas SQL. Cada consulta ha sido elaborada para extraer información específica y relevante para el negocio. A través de estas consultas, podrá obtener una comprensión profunda de los datos y descubrir patrones y tendencias que serán de gran utilidad para la empresa.
+Este proyecto tiene como objetivo responder a una serie de interrogantes de negocio mediante el análisis de datos de la base de datos. A continuación, se presenta un conjunto de consultas diseñadas para proporcionar insights valiosos🎯 que ayudarán a RetroRides Models en su proceso de toma de decisiones. Le invitamos a descargar la base de datos ["classicmodels"](classicmodels.sql) y a interactuar con las siguientes consultas SQL. Cada consulta ha sido elaborada para extraer información específica y relevante para el negocio. A través de estas consultas, podrá obtener una comprensión profunda de los datos y descubrir patrones y tendencias que serán de gran utilidad para la empresa.
 
 1.	Análisis de productos más vendidos: Utiliza la tabla products y la tabla orderdetails para determinar qué productos son los más populares. ¿Cuál es el top 5 de productos que se destacan en términos de ventas?[Query #1](Query%201.sql)
 2.	Tendencias de ventas en el tiempo: Utiliza las tablas orders, orderdetails para obtener el total de ventas agrupadas por año y mes (puedes extraer el YEAR y MONTH de la fecha de venta) para conocer los tres meses de mayor venta histórica. ¿Cuáles son los tres meses que han logrado las mayores ventas de manera históricas?[Query #2](Query%202.sql)
