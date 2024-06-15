@@ -1,7 +1,7 @@
 SELECT
-	COUNT(distinct o.orderNumber)	AS cant_ventas,
-    c.country						AS pais,
-    c.city							AS ciudad
+    COUNT(distinct o.orderNumber)	AS cant_ventas,
+    c.country				AS pais,
+    c.city				AS ciudad
 FROM customers c
 JOIN orders o
 ON o.customerNumber = c.customerNumber
