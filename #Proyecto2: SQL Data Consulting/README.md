@@ -1,4 +1,4 @@
-## Proyecto 2: Insights de Negocio
+## Insights de Negocio con SQL
 
 #### Introducción
 
