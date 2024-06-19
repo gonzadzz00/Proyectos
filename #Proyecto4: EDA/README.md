@@ -1,7 +1,7 @@
 ## Proyecto: Análisis Exploratorio de Datos (EDA) del Dataset de Calidad de Vinos
 
 #### Objetivo
-El objetivo principal de este proyecto es realizar un Análisis Exploratorio de Datos (EDA) del dataset de calidad de vinos, analizando sus variantes y características principales. Este análisis permitirá identificar patrones, correlaciones y posibles outliers, proporcionando una comprensión profunda del dataset, lo cual es crucial para cualquier análisis posterior o desarrollo de modelos predictivos.
+El objetivo principal de este proyecto es realizar un Análisis Exploratorio de Datos (EDA) del dataset de calidad de vinos🍷, analizando sus variantes y características principales. Este análisis permitirá identificar patrones, correlaciones y posibles outliers, proporcionando una comprensión profunda del dataset, lo cual es crucial para cualquier análisis posterior o desarrollo de modelos predictivos.
 
 #### Introducción
 El Análisis Exploratorio de Datos es una etapa fundamental en cualquier proyecto de ciencia de datos. A través del EDA, se busca explorar los datos de manera sistemática para entender mejor su estructura, distribución y relaciones entre las variables. En este proyecto, el dataset utilizado contiene información sobre la calidad de los vinos, con varias características que describen sus propiedades físicas y químicas. La realización de un EDA exhaustivo ayudará a visualizar y comprender mejor estos datos, facilitando la identificación de patrones relevantes y posibles áreas de interés para análisis más avanzados.
