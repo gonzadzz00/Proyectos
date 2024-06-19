@@ -10,3 +10,5 @@
 ### [#Proyecto 2: RetroRides Models Data Insights🚗](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto2%3A%20SQL%20Data%20Consulting/README.md)
 
 ### [#Proyecto 3: Sharks Attacks Report🦈](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto3%3A%20Data%20Viz/README.md)
+
+### [#Proyecto 4: Exploratory Data Analysis Wine Quality🍷](https://github.com/gonzadzz00/Proyectos/edit/main/%23Proyecto4%3A%20EDA/README.md)
