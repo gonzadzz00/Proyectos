@@ -44,4 +44,20 @@ El análisis permitió resaltar la importancia del juego colectivo del Mancheste
 <p align="center">
   <img src="Modelo_de_tablas.png" alt="Modelo_de_tablas" width="80%">
 </p>
+<p align="center">Modelo de Datos</p>
+
+<p align="center">
+  <img src="mancity1.jpg" alt="General Stats" width="80%">
+</p>
+<p align="center">General stats</p>
+
+<p align="center">
+  <img src="mancity2.jpg" alt="Passing Stats" width="80%">
+</p>
+<p align="center">Passing stats</p>
+
+<p align="center">
+  <img src="mancity3.jpg" alt="Shooting Stats" width="80%">
+</p>
+<p align="center">Shooting stats</p>
 
