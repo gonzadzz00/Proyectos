@@ -20,3 +20,7 @@ El proceso de EDA se desarrollará en varios pasos detallados a continuación:
 
 #### Conclusiones
 El proceso de EDA descrito en este proyecto proporcionará una comprensión profunda del dataset de calidad de vinos. A través de la conversión y visualización inicial, el análisis estadístico y correlacional, y las diversas visualizaciones gráficas, se podrán identificar patrones, correlaciones y outliers que son cruciales para cualquier análisis posterior. El reporte en formato HTML permitirá una visualización interactiva de los datos, facilitando la comunicación de los hallazgos y la toma de decisiones informadas. Este enfoque sistemático y detallado asegura que se obtenga el máximo conocimiento posible del dataset, estableciendo una base sólida para futuras investigaciones o desarrollos de modelos predictivos.
+
+#### Enlaces
+#####   - [📒Jupyter Notebook](Exploratory_Data_Analysis_(EDA).ipynb)
+#####   - [📊Reporte](wine_quality_report.html)
