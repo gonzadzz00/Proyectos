@@ -12,4 +12,4 @@
 
 ### [#Proyecto 3: Sharks Attacks Report🦈](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto3%3A%20Data%20Viz/README.md)
 
-### [#Proyecto 4: Exploratory Data Analysis Wine Quality🍷](https://github.com/gonzadzz00/Proyectos/edit/main/%23Proyecto4%3A%20EDA/README.md)
+### [#Proyecto 4: Exploratory Data Analysis Wine Quality🍷](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto4%3A%20EDA/README.md)
