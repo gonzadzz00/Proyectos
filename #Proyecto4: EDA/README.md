@@ -23,5 +23,5 @@ El proceso de EDA descrito en este proyecto proporcionará una comprensión prof
 
 #### Enlaces
 #####   - [📒Jupyter Notebook](Exploratory_Data_Analysis_(EDA).ipynb)
-#####   - [📊Reporte](../wine_quality_report.html)
+#####   - [📊Reporte](https://gonzadzz00.github.io/Proyectos/wine_quality_report.html)
 
