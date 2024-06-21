@@ -4,6 +4,7 @@
   -  Data Mining
   -  Machine Learning
   -  Visualización de datos
+
 #### Cada proyecto está diseñado para explorar y aplicar técnicas avanzadas en la extracción, procesamiento, análisis y presentación de datos, proporcionando ejemplos prácticos y soluciones en el campo del análisis de datos
 
 # Mis Proyectos
