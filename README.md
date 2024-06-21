@@ -35,7 +35,7 @@ Cada proyecto tiene como objetivo:
 # Mis Proyectos
 
 ### Proyecto 1: Web Scraping
-[Manchester City Stats 2023/24⚽](https://gonzadzz00.github.io/Proyectos/%23Proyecto1%3A%20Web%20Scraping/README.md)
+[Manchester City Stats 2023/24⚽](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto1%3A%20Web%20Scraping/README.md)
 
 ### Proyecto 2: SQL Data Consulting
 [RetroRides Models Data Insights🚗](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto2%3A%20SQL%20Data%20Consulting/README.md)
