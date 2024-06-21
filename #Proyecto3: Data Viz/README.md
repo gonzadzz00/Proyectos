@@ -6,7 +6,7 @@
 
 ## Descripción del Proyecto
 
-El **Shark Attacks Incidents Report** es un proyecto de visualización de datos creado utilizando Power BI, basado en el **Conjunto de Datos Global de Ataques de Tiburones**. Este conjunto de datos proporciona registros actualizados diariamente sobre incidentes de ataques de tiburones en todo el mundo, haciendo especian enfasis en el pais Australiano ofreciendo información detallada sobre varios aspectos de cada incidente.
+El **Shark Attacks Incidents Report** es un proyecto de visualización de datos creado utilizando Power BI, basado en el **Conjunto de Datos Global de Ataques de Tiburones🦈**. Este conjunto de datos proporciona registros actualizados diariamente sobre incidentes de ataques de tiburones en todo el mundo, haciendo especian enfasis en el pais Australiano ofreciendo información detallada sobre varios aspectos de cada incidente.
 
 ## Conjunto de Datos
 
@@ -41,6 +41,7 @@ La visualización de datos en Power BI incluye varios gráficos y tablas interac
 
 Para utilizar este proyecto, simplemente descarga el archivo Power BI y ábrelo en tu aplicación Power BI Desktop. Los datos se actualizarán automáticamente si se configuran las conexiones adecuadas a la fuente de datos.
 
-[Reporte](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto3%3A%20Data%20Viz/Sharks%20Incidents%20Reports.pbix)
-[Informe](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto3%3A%20Data%20Viz/Global%20Shark%20Attack%20Incidents.pdf)
+[Reporte](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto3%3A%20Data%20Viz/Sharks%20Incidents%20Reports.pbix)📊
+
+[Informe](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto3%3A%20Data%20Viz/Global%20Shark%20Attack%20Incidents.pdf)ℹ️
 
