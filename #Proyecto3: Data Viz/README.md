@@ -41,7 +41,7 @@ La visualización de datos en Power BI incluye varios gráficos y tablas interac
 
 Para utilizar este proyecto, simplemente descarga el archivo Power BI y ábrelo en tu aplicación Power BI Desktop. Los datos se actualizarán automáticamente si se configuran las conexiones adecuadas a la fuente de datos.
 
-[Reporte](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto3%3A%20Data%20Viz/Sharks%20Incidents%20Reports.pbix)📊
+[Reporte interactivo en Power BI](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto3%3A%20Data%20Viz/Sharks%20Incidents%20Reports.pbix)📊
 
-[Informe](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto3%3A%20Data%20Viz/Global%20Shark%20Attack%20Incidents.pdf)ℹ️
+[Informe de Negocio en PDF](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto3%3A%20Data%20Viz/Global%20Shark%20Attack%20Incidents.pdf)ℹ️
 
