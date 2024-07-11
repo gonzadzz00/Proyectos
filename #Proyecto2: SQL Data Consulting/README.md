@@ -18,3 +18,8 @@ Este proyecto tiene como objetivo responder a una serie de interrogantes de nego
 8.	Análisis de la demanda: usa las tablas orders, ordersdetails y products para agrupar las cantidades vendidas de cada producto por mes y año. ¿Cuál es la demanda mensual histórica que tiene el producto “2001 Ferrari Enzo” código S12_1108?[Query #8](Query%208.sql)
 9.	Eficacia de ventas: usa las tablas products y ordersdetails para obtener el conteo de productos registrados y vendidos respectivamente. ¿Toda la variedad de productos registrados han sido vendidos?[Query #9](Query%209.sql)
 10.	Eficacia de ventas: usa los datos de la pregunta anterior y determina ¿Cuál es el producto o los productos que no se han vendido nunca?[Query #10](Query%2010.sql)
+
+<p align="center">
+  <img src="der_classicmodels_database.png" alt="Modelo_de_tablas" width="80%">
+</p>
+<p align="center">Modelo de Datos</p>
