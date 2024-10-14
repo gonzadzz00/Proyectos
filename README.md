@@ -4,24 +4,19 @@ Este repositorio contiene una colección de proyectos de análisis de datos desa
 
 ## Áreas de Enfoque
 
-1. **Web Scraping**: 
-   - Extracción automatizada de datos de sitios web.
-   - Técnicas de parsing y limpieza de datos.
-   - Aplicación en la recopilación de datos para análisis de mercado y monitoreo de tendencias.
-
-2. **Data Mining**: 
+1. **Data Mining**: 
    - Descubrimiento de patrones y relaciones en grandes conjuntos de datos.
    - Uso de algoritmos de clustering, asociación y clasificación.
    - Implementación en casos de uso como segmentación de clientes y análisis predictivo.
 
-3. **Machine Learning**: 
+2. **Machine Learning**: 
    - Desarrollo de modelos predictivos y de clasificación.
    - Aplicación de algoritmos supervisados y no supervisados.
    - Ejemplos prácticos en predicción de ventas, análisis de sentimientos y más.
 
-4. **Visualización de Datos**: 
+3. **Visualización de Datos**: 
    - Creación de dashboards interactivos y reportes visuales.
-   - Uso de herramientas como Power BI para representar datos de manera comprensible.
+   - Uso de herramientas como Power BI y Qlik Sense para representar datos de manera comprensible.
    - Enfoque en la comunicación efectiva de insights y resultados.
 
 ## Objetivos de los Proyectos
